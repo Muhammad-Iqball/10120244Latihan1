@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tanggal Pengerjaan : 09-04-2023-->
+<!--NIM    : 10120244-->
+<!--Nama   : Muhammad Iqbal Lutfi Hanafiyah-->
+<!--Kelas  : IF-6-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/soft_green"/>
+    <corners
+        android:radius="8dp"/>
+</shape>

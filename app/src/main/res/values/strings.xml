@@ -1,0 +1,17 @@
+<!--Tanggal Pengerjaan : 09-04-2023-->
+<!--NIM    : 10120244-->
+<!--Nama   : Muhammad Iqbal Lutfi Hanafiyah-->
+<!--Kelas  : IF-6-->
+<resources>
+    <string name="app_name">10120244Latihan1</string>
+    <string name="text1">DigiTeam</string>
+    <string name="text2">Digital Together Everyone Achieve More</string>
+    <string name="text3">Jabar Digital Service</string>
+    <string name="nama">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="job">UI Designer</string>
+    <string name="text4">Jam Kerja Bulan Ini</string>
+    <string name="text5">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="text6">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="text7">130.53 Jam</string>
+    <string name="text8">Laporan Kamu</string>
+</resources>
